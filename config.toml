@@ -1,6 +1,6 @@
-baseurl = "https://www.example.com/"
-title = "Black & Light"
-author = "David Hamp-Gonsalves"
+baseurl = "law2019.netlify.com"
+title = "Social Science Methodology"
+author = "JinLIN@NUFE"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-black-and-light-theme"
