@@ -13,9 +13,7 @@ pygmentscodefences  = true
   disableWebFonts = false
 
 [[menu.main]]
-    name = "Main"
+    name = "Contents"
     url  = "/"
-[[menu.main]]
-    name = "Projects"
-    url  = "/projects/"
+
 
