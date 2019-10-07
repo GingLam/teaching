@@ -13,12 +13,9 @@ pygmentscodefences  = true
   disableWebFonts = false
 
 [[menu.main]]
-    name = "About"
+    name = "Main"
     url  = "/"
 [[menu.main]]
     name = "Projects"
-    url  = "/post/"
-[[menu.main]]
-    name = "Resume"
-    url  = "law2019.netlify.com"
+    url  = "/projects/"
 
