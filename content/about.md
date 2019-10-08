@@ -3,7 +3,7 @@ date: "2019-10-03"
 title: 2019-2020学年社会科学研究方法课程大纲
 ---
 
-<div align=center><strong><font face="Times New Roman"><h4>授课教师：林景 讲师</h4></font></strong></div>
+<div align=center><font face="Times New Roman"><h4>授课教师：林景 讲师</h4></font></div>
 
 <div align=center><strong><font face="Times New Roman"><h4>南京财经大学法学院</h4></font></strong></div>
 
