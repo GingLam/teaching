@@ -79,7 +79,7 @@ linjing@nufe.edu.cn
 
 ### 三、教学进度安排
 
-**第一周 导论**
+**第一周 导论** [[PPT 1](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%201%20Course%201.pdf)] [PPT 2(https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%201%20Course%202.pdf)]
 
 1、认识社会科学研究方法：研究现状与发展脉络
 
@@ -87,7 +87,7 @@ linjing@nufe.edu.cn
 
 请阅读指定教材第一章并思考课后习题
 
-**第二周 社会科学研究的哲学基础和基本结构**
+**第二周 社会科学研究的哲学基础和基本结构** [[PPT 1](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%202%20Course%201.pdf)] [[PPT 2](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%202%20Course%202.pdf)]
 
 1、实证主义与诠释主义：两种社科哲学观
 
