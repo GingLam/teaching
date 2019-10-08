@@ -79,7 +79,7 @@ linjing@nufe.edu.cn
 
 ### 三、教学进度安排
 
-**第一周 导论** [[PPT 1](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%201%20Course%201.pdf)] [PPT 2(https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%201%20Course%202.pdf)]
+**第一周 导论** [[PPT 1](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%201%20Course%201.pdf)] [[PPT 2](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%201%20Course%202.pdf)]
 
 1、认识社会科学研究方法：研究现状与发展脉络
 
