@@ -46,7 +46,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 **2、推荐教材**
 
-基欧汉，维巴，加里金，2014，《社会科学中的研究设计》，陈硕译，上海：格致出版社
+基欧汉，维巴，加里金，2014，《[社会科学中的研究设计](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E7%A0%94%E7%A9%B6%E8%AE%BE%E8%AE%A1.rar)》，陈硕译，上海：格致出版社
 
 巴比，2018，《社会研究方法（第十一版）[上册](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%EF%BC%88%E4%B8%8A%EF%BC%89.rar) [下册](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%EF%BC%88%E4%B8%8B%EF%BC%89.rar)》，邱泽奇译，北京：华夏出版社 
 
@@ -56,7 +56,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 **1、社会科学哲学著作**
 
-索卡尔，2002，《"索卡尔事件"与科学大战：后现代视野中的科学与人文的冲突》，蔡仲、邢东梅译，南京：南京大学出版社
+索卡尔，2002，《["索卡尔事件"与科学大战：后现代视野中的科学与人文的冲突](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E2%80%9C%E7%B4%A2%E5%8D%A1%E5%B0%94%E4%BA%8B%E4%BB%B6%E2%80%9D.rar)》，蔡仲、邢东梅译，南京：南京大学出版社
 
 格罗斯、莱维特，2008，《高级迷信：学术左派及其关于科学的争论》，张雍君、张锦志译，北京：北京大学出版社
 
@@ -64,13 +64,13 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 **2、定量研究著作**
 
-陈硕，2014，《转型期中国犯罪问题的经济解释：行为分析及治理政策》，北京：中国社会科学出版社
+陈硕，2014，《[转型期中国犯罪问题的经济解释：行为分析及治理政策](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E8%BD%AC%E5%9E%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%8A%AF%E7%BD%AA%E9%97%AE%E9%A2%98.rar)》，北京：中国社会科学出版社
 
 兰小欢 等编译，2016，《腐败与反腐败的经济学》，北京：北京大学出版社
 
 **3、定性研究著作**
 
-刘思达，2017，《割据的逻辑：中国法律服务市场的生态分析（增订本）》，南京：译林出版社
+刘思达，2017，《[割据的逻辑：中国法律服务市场的生态分析（增订本）](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E5%89%B2%E6%8D%AE%E7%9A%84%E9%80%BB%E8%BE%91.rar)》，南京：译林出版社
 
 陈柏峰，2010，《乡村江湖：两湖平原"混混"研究（1980-2008）》，北京：中国政法大学出版社
 
