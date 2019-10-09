@@ -60,7 +60,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 格罗斯、莱维特，2008，《高级迷信：学术左派及其关于科学的争论》，张雍君、张锦志译，北京：北京大学出版社
 
-叶启政，2018，《[实证的迷思：重估社会科学经验研究]((https://raw.githubusercontent.com/GingLam/teaching/master/static/%E5%AE%9E%E8%AF%81%E7%9A%84%E8%BF%B7%E6%80%9D.rar))》，北京：生活·读书·新知三联书
+叶启政，2018，《[实证的迷思：重估社会科学经验研究](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E5%AE%9E%E8%AF%81%E7%9A%84%E8%BF%B7%E6%80%9D.rar)》，北京：生活·读书·新知三联书
 
 **2、定量研究著作**
 
