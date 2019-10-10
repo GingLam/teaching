@@ -42,7 +42,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 **1、指定教材**
 
-风笑天，2018，《社会研究方法（第5版）[part 1](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%20part%201.rar) [part 2](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%20part%202.rar)》，北京：中国人民大学出版社
+风笑天，2018，《社会研究方法（第5版）[Part 1](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%20part%201.rar) [Part 2](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%20part%202.rar)》，北京：中国人民大学出版社
 
 **2、推荐教材**
 
