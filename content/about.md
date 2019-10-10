@@ -58,7 +58,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 索卡尔，2002，《["索卡尔事件"与科学大战：后现代视野中的科学与人文的冲突](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E2%80%9C%E7%B4%A2%E5%8D%A1%E5%B0%94%E4%BA%8B%E4%BB%B6%E2%80%9D.rar)》，蔡仲、邢东梅译，南京：南京大学出版社
 
-格罗斯、莱维特，2008，《高级迷信：学术左派及其关于科学的争论》，张雍君、张锦志译，北京：北京大学出版社
+格罗斯、莱维特，2008，《[高级迷信：学术左派及其关于科学的争论](https://raw.githubusercontent.com/GingLam/teaching/master/%E9%AB%98%E7%BA%A7%E8%BF%B7%E4%BF%A1%EF%BC%9A%E5%AD%A6%E6%9C%AF%E5%B7%A6%E6%B4%BE%E5%8F%8A%E5%85%B6%E5%85%B3%E4%BA%8E%E7%A7%91%E5%AD%A6%E7%9A%84%E4%BA%89%E8%AE%BA.rar)》，张雍君、张锦志译，北京：北京大学出版社
 
 叶启政，2018，《[实证的迷思：重估社会科学经验研究](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E5%AE%9E%E8%AF%81%E7%9A%84%E8%BF%B7%E6%80%9D.rar)》，北京：生活·读书·新知三联书
 
