@@ -27,7 +27,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 除课堂内的学习和答疑外，本课程提供专门课后答疑，包括解析课程重难点知识、协助查找校外科研资料、指导完成课题设计、提供进阶学习辅导以及升学咨询等。课后答疑时间为每**单周**的周五10：15-12：30，地点为德政楼法学院408办公室。
 
-为保证课后答疑质量和效果，请有意愿的同学**至少提前两天**通过[邮件](mailto:linjing@nufe.edu.cn)致信，简要说明所需答疑内容或咨询事项。
+为保证课后答疑质量和效果，请有意愿的同学**至少提前两天**通过[邮件](mailto:linjing@nufe.edu.cn)致信，简要说明所需答疑问题或咨询事项。
 
 **（二）课程考核**
 
@@ -42,7 +42,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 **1、指定教材**
 
-风笑天，2018，《社会研究方法（第5版）》，北京：中国人民大学出版社
+风笑天，2018，《社会研究方法（第5版）[part 1](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%20part%201.rar) [part 2](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%20part%202.rar)》，北京：中国人民大学出版社
 
 **2、推荐教材**
 
@@ -72,11 +72,11 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 刘思达，2017，《[割据的逻辑：中国法律服务市场的生态分析（增订本）](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E5%89%B2%E6%8D%AE%E7%9A%84%E9%80%BB%E8%BE%91.rar)》，南京：译林出版社
 
-陈柏峰，2010，《乡村江湖：两湖平原"混混"研究（1980-2008）》，北京：中国政法大学出版社
+陈柏峰，2010，《[乡村江湖：两湖平原"混混"研究（1980-2008）](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E4%B9%A1%E6%9D%91%E6%B1%9F%E6%B9%96%20%20%E4%B8%A4%E6%B9%96%E5%B9%B3%E5%8E%9F%E2%80%9C%E6%B7%B7%E6%B7%B7%E2%80%9D%E7%A0%94%E7%A9%B6.rar)》，北京：中国政法大学出版社
 
 应星，2016，《["气"与抗争政治：当代中国乡村社会稳定问题研究](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E6%B0%94%E4%B8%8E%E6%8A%97%E4%BA%89%E6%94%BF%E6%B2%BB.rar)》，北京：社会科学文献出版社
 
-埃里克森，2016，《无需法律的秩序：邻人如何解决纠纷》，苏力译，北京：中国政法大学出版社
+埃里克森，2016，《[无需法律的秩序：邻人如何解决纠纷](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E6%97%A0%E9%9C%80%E6%B3%95%E5%BE%8B%E7%9A%84%E7%A7%A9%E5%BA%8F.rar)》，苏力译，北京：中国政法大学出版社
 
 **4、前沿研究著作**
 
