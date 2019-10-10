@@ -48,7 +48,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 基欧汉，维巴，加里金，2014，《[社会科学中的研究设计](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E7%A0%94%E7%A9%B6%E8%AE%BE%E8%AE%A1.rar)》，陈硕译，上海：格致出版社
 
-巴比，2018，《社会研究方法（第十一版）[上册](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%EF%BC%88%E4%B8%8A%EF%BC%89.rar) [下册](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%EF%BC%88%E4%B8%8B%EF%BC%89.rar)》，邱泽奇译，北京：华夏出版社 
+巴比，2018，《社会研究方法（第十一版）[Part 1](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%EF%BC%88%E4%B8%8A%EF%BC%89.rar) [Part 2](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%EF%BC%88%E4%B8%8B%EF%BC%89.rar)》，邱泽奇译，北京：华夏出版社 
 
 王启梁、张剑源，2014，《法律的经验研究》，北京：北京大学出版社
 
