@@ -103,7 +103,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 请阅读指定教材第二章并思考课后习题
 
-**第三周 定量研究方法的基础**
+**第三周 定量研究方法的基础** [[PPT](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%203.pdf)]
 
 1、定量研究的类型与特征
 
@@ -111,7 +111,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 请阅读指定教材第五、六章并思考课后习题
 
-**第四周 具体定量研究方法（一）：问卷调查法**
+**第四周 具体定量研究方法（一）：问卷调查法** [[PPT](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%204.pdf)]
 
 1、问卷调查法的基本原理
 
