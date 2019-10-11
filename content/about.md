@@ -127,7 +127,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 2、实验法的数据采集、分析与推论
 
-补充材料：[随机化模拟案例]（https://raw.githubusercontent.com/GingLam/teaching/master/static/%E9%9A%8F%E6%9C%BA%E5%8C%96%E6%A8%A1%E6%8B%9F%E6%A1%88%E4%BE%8B.rar）
+补充材料：[随机化模拟案例](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E9%9A%8F%E6%9C%BA%E5%8C%96%E6%A8%A1%E6%8B%9F%E6%A1%88%E4%BE%8B.rar)
 
 请阅读指定教材第七章并思考课后习题
 
