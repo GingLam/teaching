@@ -121,7 +121,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 请阅读指定教材第八章并思考课后习题
 
-**第五周 具体定量研究方法（二）：实验法**[[PPT](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%205.pdf)]
+**第五周 具体定量研究方法（二）：实验法** [[PPT](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%205.pdf)]
 
 1、实验法的基本原理
 
