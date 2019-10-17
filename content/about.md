@@ -131,7 +131,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 请阅读指定教材第七章并思考课后习题
 
-**第六周 具体定量研究方法（三）：文本计量法**
+**第六周 具体定量研究方法（三）：文本计量法** [[PPT](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%206.pdf)]
 
 1、文本计量法的基本原理
 
