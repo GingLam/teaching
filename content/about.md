@@ -145,7 +145,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 2、网络分析法的数据采集、分析与推论
 
-美蒂奇家族案例：[原始数据](https://raw.githubusercontent.com/GingLam/teaching/master/static/The%20Medicis.rar) [作图软件](http://www.analytictech.net/Setup32UCI6688.exe)(32-bit)
+补充材料：美蒂奇家族案例（[原始数据](https://raw.githubusercontent.com/GingLam/teaching/master/static/The%20Medicis.rar) [作图软件32-bit](http://www.analytictech.net/Setup32UCI6688.exe)）
 
 请阅读课堂印发[讲义](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90%20%20%E7%AC%AC2%E7%89%88.rar)
 
