@@ -149,7 +149,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 请阅读课堂印发[讲义](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90%20%20%E7%AC%AC2%E7%89%88.rar)
 
-**第八周 定量研究的具体案例及其分析策略**
+**第八周 定量研究的具体案例及其分析策略** [[PPT](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%208.pdf)]
 
 1、司法支出与犯罪治理：堵还是疏
 
