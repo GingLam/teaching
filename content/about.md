@@ -169,7 +169,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 请阅读指定教材第十二章并思考课后习题
 
-**第十周 具体定性研究方法（一）：参与观察法**
+**第十周 具体定性研究方法（一）：参与观察法** [[PPT](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%2010.pdf)]
 
 1、参与观察法的基本原理
 
