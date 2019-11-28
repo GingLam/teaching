@@ -199,6 +199,8 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 2、传记分析法的资料采集、分析与推论
 
+补充材料：蔡文娜 [《一个过渡时代的家庭》](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E4%B8%80%E4%B8%AA%E8%BF%87%E6%B8%A1%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AE%B6%E5%BA%AD.pdf)
+
 请阅读课堂印发讲义
 
 **第十四周 定性研究的具体案例及其分析策略**
