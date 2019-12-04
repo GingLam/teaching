@@ -33,7 +33,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 本课程的期末考核方式为撰写一份论文形式的项目申请书。研修同学以小组为单位（2~3人，[分组名单](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E5%88%86%E7%BB%84%E5%90%8D%E5%8D%95.docx)），自选题目完成一篇社会科学研究方法应用于法学研究的项目申请书，正文字数不少于3000字。
 
-项目申请书应包括研究问题、文献回顾、具体方法、资料来源以及调研规划等方面。格式与排版要求详见《项目申请书》(含“[作业要求版](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E9%A1%B9%E7%9B%AE%E7%94%B3%E8%AF%B7%E4%B9%A6%EF%BC%88%E5%90%AB%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82%EF%BC%89.docx)”和“[不含作业要求版](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E9%A1%B9%E7%9B%AE%E7%94%B3%E8%AF%B7%E4%B9%A6%EF%BC%88%E4%B8%8D%E5%90%AB%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82%EF%BC%89.docx)”，点击下载)。
+项目申请书应包括研究问题、文献回顾、具体方法、资料来源以及调研规划等方面。格式与排版要求详见《项目申请书》(“[含作业要求版](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E9%A1%B9%E7%9B%AE%E7%94%B3%E8%AF%B7%E4%B9%A6%EF%BC%88%E5%90%AB%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82%EF%BC%89.docx)”和“[不含作业要求版](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E9%A1%B9%E7%9B%AE%E7%94%B3%E8%AF%B7%E4%B9%A6%EF%BC%88%E4%B8%8D%E5%90%AB%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82%EF%BC%89.docx)”，点击下载)。
 
 申请书提交包括**纸质版**和**电子版**。纸质版请于最后一周课堂上现场提交。电子版请于最后一周课堂当天提交，格式为word。请统一命名为“班级+作者+学号”，如“1801张三2020180000”。电子版作业提交地址为：[作业系统](http://xzc.cn/t0553S757E)（点击提交）。电子版作业
 
