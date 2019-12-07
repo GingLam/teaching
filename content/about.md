@@ -187,11 +187,11 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 请阅读指定教材第十三章第五节并思考课后习题
 
-**第十二周 具体定性研究方法（三）：比较历史分析法** [[PPT](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%2012.pdf)]
+**第十二周 具体定性研究方法（三）：比较历史法** [[PPT](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%2012.pdf)]
 
-1、比较历史分析的基本原理
+1、比较历史法的基本原理
 
-2、比较历史分析的资料采集、分析与推论
+2、比较历史法的资料采集、分析与推论
 
 请阅读课堂印发讲义
 
