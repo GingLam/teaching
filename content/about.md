@@ -213,7 +213,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 案例1请参考拓展阅读《割据的逻辑》；案例2请参考拓展阅读《乡村江湖》
 
-**第十五周 社会科学研究方法的前沿进展（一）** 
+**第十五周 社会科学研究方法的前沿进展（一）** [[PPT 1](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%2015%20Course%201.pdf)] [[PPT 2](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%2015%20Course%202.pdf)]
 
 大数据分析（big data analysis）与机器学习（machine learning）在社会科学研究中的应用
 
