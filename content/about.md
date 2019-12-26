@@ -219,7 +219,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 请阅读课堂印发讲义
 
-**第十六周 社会科学研究方法的前沿进展（二）**
+**第十六周 社会科学研究方法的前沿进展（二）** [[PPT](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%2016.pdf)]
 
 基于多主体的建模（agent-based modeling）在社会科学研究中的应用
 
