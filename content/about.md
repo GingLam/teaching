@@ -215,13 +215,17 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 **第十五周 社会科学研究方法的前沿进展（一）** [[PPT 1](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%2015%20Course%201.pdf)] [[PPT 2](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%2015%20Course%202.pdf)]
 
-大数据分析（big data analysis）与机器学习（machine learning）在社会科学研究中的应用
+1、大数据分析（big data analysis）在社会科学研究中的应用
+
+2、机器学习（machine learning）在社会科学研究中的应用
 
 请阅读课堂印发讲义
 
 **第十六周 社会科学研究方法的前沿进展（二）** [[PPT](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%2016.pdf)]
 
-基于多主体的建模（agent-based modeling）在社会科学研究中的应用
+社会模拟法（social simulation）在社会科学研究中的应用
+
+补充资料：美国种族隔离案例的[线上模拟](http://nifty.stanford.edu/2014/mccown-schelling-model-segregation/)
 
 请阅读课堂印发讲义
 
@@ -230,7 +234,6 @@ title: 2019-2020学年社会科学研究方法课程大纲
 1、社会科学论文的基本结构
 
 2、社会科学论文的写作技巧
-
 
 **第十八周 社会科学研究的伦理规范**
 
