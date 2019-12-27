@@ -229,7 +229,7 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 请阅读课堂印发讲义
 
-**第十七周 社会科学研究的学术写作**
+**第十七周 社会科学研究的学术写作** [[PPT](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%2017.pdf)]
 
 1、社会科学论文的基本结构
 
