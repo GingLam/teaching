@@ -237,8 +237,8 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 **第十八周 社会科学研究的伦理规范** [[PPT](https://raw.githubusercontent.com/GingLam/teaching/master/static/Week%2018.pdf)]
 
-1、资料收集中的知情同意问题
+1、资料收集中的知情同意问题(informed consent)
 
-2、资料分析中的可复制性问题
+2、资料分析中的可复制性问题(replicability)
 
 请阅读指定教材第三、四章和附录三并思考课后习题
