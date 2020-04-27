@@ -46,13 +46,13 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 **1、指定教材**
 
-风笑天，2018，《社会研究方法（第5版）[Part 1](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%20part%201.rar) [Part 2](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%20part%202.rar)》，北京：中国人民大学出版社
+风笑天，2018，《社会研究方法（第5版）》，北京：中国人民大学出版社
 
 **2、推荐教材**
 
-基欧汉，维巴，加里金，2014，《[社会科学中的研究设计](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E7%A0%94%E7%A9%B6%E8%AE%BE%E8%AE%A1.rar)》，陈硕译，上海：格致出版社
+基欧汉，维巴，加里金，2014，《社会科学中的研究设计》，陈硕译，上海：格致出版社
 
-巴比，2018，《社会研究方法（第十一版）[Part 1](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%EF%BC%88%E4%B8%8A%EF%BC%89.rar) [Part 2](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E7%A4%BE%E4%BC%9A%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%EF%BC%88%E4%B8%8B%EF%BC%89.rar)》，邱泽奇译，北京：华夏出版社 
+巴比，2018，《社会研究方法（第十一版）》，邱泽奇译，北京：华夏出版社 
 
 王启梁、张剑源，2014，《法律的经验研究》，北京：北京大学出版社
 
@@ -60,33 +60,33 @@ title: 2019-2020学年社会科学研究方法课程大纲
 
 **1、社会科学哲学著作**
 
-索卡尔，2002，《["索卡尔事件"与科学大战：后现代视野中的科学与人文的冲突](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E2%80%9C%E7%B4%A2%E5%8D%A1%E5%B0%94%E4%BA%8B%E4%BB%B6%E2%80%9D.rar)》，蔡仲、邢东梅译，南京：南京大学出版社
+索卡尔，2002，《"索卡尔事件"与科学大战：后现代视野中的科学与人文的冲突》，蔡仲、邢东梅译，南京：南京大学出版社
 
-格罗斯、莱维特，2008，《[高级迷信：学术左派及其关于科学的争论](https://raw.githubusercontent.com/GingLam/teaching/master/%E9%AB%98%E7%BA%A7%E8%BF%B7%E4%BF%A1%EF%BC%9A%E5%AD%A6%E6%9C%AF%E5%B7%A6%E6%B4%BE%E5%8F%8A%E5%85%B6%E5%85%B3%E4%BA%8E%E7%A7%91%E5%AD%A6%E7%9A%84%E4%BA%89%E8%AE%BA.rar)》，张雍君、张锦志译，北京：北京大学出版社
+格罗斯、莱维特，2008，《高级迷信：学术左派及其关于科学的争论》，张雍君、张锦志译，北京：北京大学出版社
 
-叶启政，2018，《[实证的迷思：重估社会科学经验研究](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E5%AE%9E%E8%AF%81%E7%9A%84%E8%BF%B7%E6%80%9D.rar)》，北京：生活·读书·新知三联书
+叶启政，2018，《实证的迷思：重估社会科学经验研究》，北京：生活·读书·新知三联书
 
 **2、定量研究著作**
 
-陈硕，2014，《[转型期中国犯罪问题的经济解释：行为分析及治理政策](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E8%BD%AC%E5%9E%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%8A%AF%E7%BD%AA%E9%97%AE%E9%A2%98.rar)》，北京：中国社会科学出版社
+陈硕，2014，《转型期中国犯罪问题的经济解释：行为分析及治理政策》，北京：中国社会科学出版社
 
 兰小欢 等编译，2016，《腐败与反腐败的经济学》，北京：北京大学出版社
 
 **3、定性研究著作**
 
-刘思达，2017，《[割据的逻辑：中国法律服务市场的生态分析（增订本）](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E5%89%B2%E6%8D%AE%E7%9A%84%E9%80%BB%E8%BE%91.rar)》，南京：译林出版社
+刘思达，2017，《割据的逻辑：中国法律服务市场的生态分析（增订本）》，南京：译林出版社
 
-陈柏峰，2010，《[乡村江湖：两湖平原"混混"研究（1980-2008）](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E4%B9%A1%E6%9D%91%E6%B1%9F%E6%B9%96%20%20%E4%B8%A4%E6%B9%96%E5%B9%B3%E5%8E%9F%E2%80%9C%E6%B7%B7%E6%B7%B7%E2%80%9D%E7%A0%94%E7%A9%B6.rar)》，北京：中国政法大学出版社
+陈柏峰，2010，《乡村江湖：两湖平原"混混"研究（1980-2008）》，北京：中国政法大学出版社
 
-应星，2016，《["气"与抗争政治：当代中国乡村社会稳定问题研究](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E6%B0%94%E4%B8%8E%E6%8A%97%E4%BA%89%E6%94%BF%E6%B2%BB.rar)》，北京：社会科学文献出版社
+应星，2016，《"气"与抗争政治：当代中国乡村社会稳定问题研究》，北京：社会科学文献出版社
 
-埃里克森，2016，《[无需法律的秩序：邻人如何解决纠纷](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E6%97%A0%E9%9C%80%E6%B3%95%E5%BE%8B%E7%9A%84%E7%A7%A9%E5%BA%8F.rar)》，苏力译，北京：中国政法大学出版社
+埃里克森，2016，《无需法律的秩序：邻人如何解决纠纷》，苏力译，北京：中国政法大学出版社
 
 **4、前沿研究著作**
 
 萨尔加尼克，2019，《计算社会学》，赵红梅、赵婷译，北京：中信出版社
 
-吉尔伯特，2012，《[基于行动者的模型](https://raw.githubusercontent.com/GingLam/teaching/master/static/%E5%9F%BA%E4%BA%8E%E8%A1%8C%E5%8A%A8%E8%80%85%E7%9A%84%E6%A8%A1%E5%9E%8B.rar)》，盛智明译，上海：格致出版社
+吉尔伯特，2012，《基于行动者的模型》，盛智明译，上海：格致出版社
 
 
 ### 三、教学进度安排
